@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eCommerce App</string>
+    <string name="user_image">User Image</string>
+    <string name="back_button">back Button</string>
+</resources>
